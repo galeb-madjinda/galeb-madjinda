@@ -42,9 +42,3 @@
 <img align="right" height="150" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/galeb-madjinda/galeb-madjinda/output/snake.svg" alt="Snake animation" />
-
-###
